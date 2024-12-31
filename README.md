@@ -1,4 +1,4 @@
-# A ESP32 Bluetooth Audio Device
+# ESP32 Bluetooth Audio Device
 
 ![3d](images/3D.png)
 
