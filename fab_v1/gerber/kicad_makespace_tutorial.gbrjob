@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "8.0.7-8.0.7-0~ubuntu22.04.1"
     },
-    "CreationDate": "2024-12-31T16:15:11+01:00"
+    "CreationDate": "2024-12-31T17:49:22+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "kicad_makespace_tutorial",
       "GUID": "6b696361-645f-46d6-916b-657370616365",
-      "Revision": "rev?"
+      "Revision": "v1"
     },
     "Size": {
       "X": 64.6,
